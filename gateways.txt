@@ -1,0 +1,6 @@
+https://dweb.link/ipfs/{0}
+https://cf-ipfs.com/ipfs/{0}
+https://infura-ipfs.io/ipfs/{0}
+https://ipfs.drink.cafe/ipfs/{0}
+https://astyanax.io/ipfs/{0}
+https://bluelight.link/ipfs/{0}
