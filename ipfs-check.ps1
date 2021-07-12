@@ -1,5 +1,5 @@
 $content = $args[0] # Can't directly reference $args[0] in a ForEach-Object block because there is another $args scoped inside the block
-if ($content -eq $null) {
+if ($null -eq $content) {
   Write-Output "No IPFS hash provided"
   exit 1
 }
