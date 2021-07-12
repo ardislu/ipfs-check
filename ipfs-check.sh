@@ -1,4 +1,7 @@
 #!/bin/sh
 
-content="QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf"
-curl -i -L $(shuf -n 1 gateways.txt | sed "s/{0}/$content/; s/\r$//")
+if [ -z "$1" ]; then
+  echo "No IPFS hash provided"
+  exit 1
+fi
+curl -i -L $(shuf -n 1 gateways.txt | sed "s/{0}/$1/; s/\r$//")
