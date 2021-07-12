@@ -7,11 +7,11 @@ A simple script to check if some IPFS content is reachable through a random [pub
 In bash:
 
 ```
-./ipfs-check.sh
+./ipfs-check.sh QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
 ```
 
 In PowerShell:
 
 ```
-./ipfs-check.ps1
+./ipfs-check.ps1 QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
 ```
