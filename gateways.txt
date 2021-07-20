@@ -1,5 +1,5 @@
-https://dweb.link/ipfs/{0}
-https://cf-ipfs.com/ipfs/{0}
-https://infura-ipfs.io/ipfs/{0}
-https://ipfs.drink.cafe/ipfs/{0}
-https://ivoputzer.xyz/ipfs/{0}
+https://{0}.ipfs.dweb.link
+https://{0}.ipfs.cf-ipfs.com
+https://{0}.ipfs.infura-ipfs.io
+https://{0}.ipfs.ipfs.drink.cafe
+https://{0}.ipfs.ivoputzer.xyz
