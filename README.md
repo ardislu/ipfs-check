@@ -6,20 +6,20 @@ A simple script to check if some IPFS content is reachable through a random [pub
 
 In bash:
 ```
-curl https://raw.githubusercontent.com/ardislu/ipfs-check/main/ipfs-check.sh | bash -s QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
+curl https://raw.githubusercontent.com/ardislu/ipfs-check/main/ipfs-check.sh | bash -s bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m
 ```
 
 Or, save the script to file and:
 ```
-./ipfs-check.sh QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
+./ipfs-check.sh bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m
 ```
 
 In PowerShell:
 ```
-& ([ScriptBlock]::Create((Invoke-WebRequest https://raw.githubusercontent.com/ardislu/ipfs-check/main/ipfs-check.ps1))) QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
+& ([ScriptBlock]::Create((Invoke-WebRequest https://raw.githubusercontent.com/ardislu/ipfs-check/main/ipfs-check.ps1))) bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m
 ```
 
 Or, save the script to file and:
 ```
-./ipfs-check.ps1 QmQG6T9EFHzBxor5s4J5XDmF9i65mf3SFwaGvZFU3xmsXf
+./ipfs-check.ps1 bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m
 ```
