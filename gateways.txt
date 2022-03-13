@@ -2,4 +2,3 @@ https://{0}.ipfs.dweb.link
 https://{0}.ipfs.cf-ipfs.com
 https://{0}.ipfs.infura-ipfs.io
 https://{0}.ipfs.astyanax.io
-https://{0}.ipfs.bluelight.link
