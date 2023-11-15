@@ -5,4 +5,3 @@ https://{0}.ipfs.4everland.io
 https://{0}.ipfs.gw3.io
 https://{0}.ipfs.w3s.link
 https://{0}.ipfs.storry.tv
-https://{0}.ipfs.astyanax.io
