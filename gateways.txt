@@ -1,5 +1,4 @@
 https://{0}.ipfs.dweb.link
-https://{0}.ipfs.cf-ipfs.com
 https://{0}.ipfs.nftstorage.link
 https://{0}.ipfs.4everland.io
 https://{0}.ipfs.gw3.io
